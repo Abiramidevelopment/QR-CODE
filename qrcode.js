@@ -23,6 +23,6 @@ app.post('/scan',(req,res)=>{
 })
 
 
-app.listen(2002,()=>{
+app.listen(10000,()=>{
     console.log("check")
 })  
